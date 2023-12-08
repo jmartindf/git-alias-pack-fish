@@ -1,3 +1,3 @@
 function gpra
     git pull --rebase --autostash $argv
-end function
+end

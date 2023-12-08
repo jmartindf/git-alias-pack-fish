@@ -1,3 +1,3 @@
 function gss
     git status --short $argv
-end function
+end

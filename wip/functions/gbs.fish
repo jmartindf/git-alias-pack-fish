@@ -1,3 +1,3 @@
 function gbs
     git bisect $argv
-end function
+end

@@ -1,3 +1,3 @@
 function ga
     git add $argv
-end function
+end

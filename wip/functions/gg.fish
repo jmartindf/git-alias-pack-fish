@@ -1,3 +1,3 @@
 function gg
     git gui citool $argv
-end function
+end

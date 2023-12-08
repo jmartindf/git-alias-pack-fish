@@ -1,3 +1,3 @@
 function gcp
     git cherry-pick $argv
-end function
+end

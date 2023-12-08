@@ -1,3 +1,3 @@
 function grm
     git rm $argv
-end function
+end

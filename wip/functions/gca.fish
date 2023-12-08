@@ -1,3 +1,3 @@
 function gca
     git commit --verbose --all $argv
-end function
+end

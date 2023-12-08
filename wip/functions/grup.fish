@@ -1,3 +1,3 @@
 function grup
     git remote update $argv
-end function
+end

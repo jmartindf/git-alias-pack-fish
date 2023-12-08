@@ -1,3 +1,3 @@
 function gsu
     git submodule update $argv
-end function
+end

@@ -1,3 +1,3 @@
 function gsd
     git svn dcommit $argv
-end function
+end

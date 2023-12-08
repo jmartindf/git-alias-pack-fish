@@ -1,3 +1,3 @@
 function gcf
     git config --list $argv
-end function
+end

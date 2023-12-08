@@ -1,3 +1,3 @@
 function gwtmv
     git worktree move $argv
-end function
+end

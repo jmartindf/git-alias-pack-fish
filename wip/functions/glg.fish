@@ -1,3 +1,3 @@
 function glg
     git log --stat $argv
-end function
+end

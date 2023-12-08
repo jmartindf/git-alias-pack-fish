@@ -1,3 +1,3 @@
 function globurl
     noglob urlglobber  $argv
-end function
+end
